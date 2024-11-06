@@ -6,13 +6,11 @@
 
 <img src="https://avatars.githubusercontent.com/u/115530805?v=4" alt="avatar" width="80" align="right">
 
-Hi，我是TrojanKL。热爱编程、读书、健身、旅行。
-
 正努力向算法开发方向学习，主要使用Python。
 
 NLP,CV,AIGC学习中...
 
-我会在这里时不时的上传一些最近实现的demo和一些小项目，共勉🥳
+我会在这里上传一些最近实现的demo和一些小项目，共勉🥳
 
 </div>
 
